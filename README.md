@@ -1,2 +1,4 @@
 # Guide-developpement-web
 Ensemble de règles et de bonnes pratiques de développement web
+
+Ici, il aura une table des matières du contenu de ce répertoire.
